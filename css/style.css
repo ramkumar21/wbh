@@ -670,7 +670,7 @@ header.header-mobile.header-light #menu-btn {
 /* ================================================== */
 
 section {
-	padding: 100px 0 100px 0;
+	padding: 80px 0 50px 0;
 	overflow: hidden;
 	position: relative;
 }
@@ -5007,7 +5007,6 @@ footer .widget_list li a {
 }
 .schedule-item .sc-time {
 	width: 160px;
-	padding-top: 25px;
 	color: #333;
 }
 .schedule-item .sc-pic {
@@ -5035,7 +5034,6 @@ footer .widget_list li a {
 .schedule-item .sc-info {
 	float: none;
 	display: inline-block;
-	width: 60%;
 }
 .schedule-item .sc-info h3 {
 	font-size:18px !important;
@@ -7295,7 +7293,6 @@ a, img {
 	}
 	.schedule-item .sc-time {
 		width: 100%;
-		padding-bottom: 20px;
 		float: none;
 	}
 	.schedule-item .sc-pic {
